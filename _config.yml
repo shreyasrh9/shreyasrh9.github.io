@@ -1,0 +1,39 @@
+# Site
+name: "Donutlearning"
+description: "Knowledge Blogging"
+meta_description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: ''
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
+
+# Authors
+authors:
+  shreyas:
+    name: Shreyas
+    display_name: Shreyas
+    email: shreyas.rh9@gmail.com
+    description: "Author of donutlearning."
+  
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
