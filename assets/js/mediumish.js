@@ -16,17 +16,6 @@ jQuery(document).ready(function($){
     })
 
 
-    // alertbar later
-    // $(document).scroll(function () {
-    //     var y = $(this).scrollTop();
-    //     if (y > 280) {
-    //         $('.alertbar').fadeIn();
-    //     } else {
-    //         $('.alertbar').fadeOut();
-    //     }
-    // });
-
-
         // Smooth scroll to an anchor
         $('a.smoothscroll[href*="#"]')
           // Remove links that don't actually link to anything

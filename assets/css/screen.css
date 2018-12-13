@@ -6,6 +6,11 @@ License: https://www.wowthemes.net/freebies-license/
 */
  .mainheading {
      padding:1rem 0rem;
+     height: 500px;
+}
+
+ .postheading {
+    padding:1rem 0rem;
 }
  a {
      color:#00ab6b;
