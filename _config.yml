@@ -3,6 +3,7 @@ name: "Donutlearning"
 description: "Knowledge Blogging"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
+brain: 'assets/images/brain.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: ''
