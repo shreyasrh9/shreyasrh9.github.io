@@ -10,6 +10,7 @@ baseurl: ''
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
+hideMainHeading: false
 
 # Authors
 authors:
