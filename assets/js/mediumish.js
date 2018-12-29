@@ -1,5 +1,12 @@
 jQuery(document).ready(function($){
-
+    var typed3 = new Typed('.lead', {
+        strings: ['', 'To attain knowledge, add things everyday. To attain wisdom, remove things every day'],
+        typeSpeed: 70,
+        backSpeed: 0,
+        smartBackspace: true, // this is a default
+        loop: true,
+        showCursor: false
+      });
     var offset = 1250; 
     var duration = 800; 
     jQuery(window).scroll(function() { 

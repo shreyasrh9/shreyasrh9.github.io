@@ -657,3 +657,14 @@ License: https://www.wowthemes.net/freebies-license/
  .card .img-fluid {
     width:100%;
 }
+
+.brain {
+    background-image: url('/assets/images/brain.jpg'); 
+    transform: translate3d(0px, 0px, 0px); 
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    color: white
+}
+
