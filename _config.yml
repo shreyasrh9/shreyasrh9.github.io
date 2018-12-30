@@ -7,7 +7,7 @@ logo: 'assets/images/logo.png'
 brain: 'assets/images/brain.jpg'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'UA-131511394-1'
 disqus: ''
 mailchimp-list: ''
 hideMainHeading: false
