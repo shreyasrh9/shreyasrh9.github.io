@@ -1,6 +1,6 @@
 jQuery(document).ready(function($){
     var typed3 = new Typed('.lead', {
-        strings: ['', 'To attain knowledge, add things everyday. To attain wisdom, remove things every day'],
+        strings: ['', 'To attain knowledge, add things everyday. To attain wisdom, remove things everyday.'],
         typeSpeed: 70,
         backSpeed: 0,
         smartBackspace: true, // this is a default
